@@ -1,0 +1,23 @@
+.header_stu_login {
+  // position: absolute;
+  // top: 23px;
+  // left: 30px !important;
+  // z-index: 99;
+  position: fixed;
+  top: 0px;
+  left: 0;
+  bottom: 0;
+  width: 300px;
+  transition: all ease-in-out 0.5s;
+  z-index: 9997;
+  transition: all 0.5s;
+  padding: 0 15px;
+  background: #040b14;
+  overflow-y: auto;
+  color: white;
+  margin: 0 auto;
+  .home_color {
+    color: white;
+    margin-left: 46px;
+  }
+}
